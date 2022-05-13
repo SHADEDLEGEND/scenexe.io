@@ -1,2 +1,2 @@
 # scenexe.io
-scenexe.io
+[scenexe.io]
